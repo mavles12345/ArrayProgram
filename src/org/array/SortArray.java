@@ -11,6 +11,8 @@ public class SortArray {
 		int[] num = { 100, 10, 20, 30, 40, 50 };
 		int[] num1;
 		
+		int[]num2= {10,20,30,40};
+		
 		//System.out.println("orignal array"+ Arrays.toString(num1));
 		
 		int[] copy=Arrays.copyOf(num, 8);
