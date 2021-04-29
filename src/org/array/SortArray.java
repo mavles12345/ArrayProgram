@@ -10,6 +10,7 @@ public class SortArray {
 
 		int[] num = { 100, 10, 20, 30, 40, 50 };
 		int[] num1;
+		int[]num3= {50,50,70};
 		
 		//System.out.println("orignal array"+ Arrays.toString(num1));
 		
